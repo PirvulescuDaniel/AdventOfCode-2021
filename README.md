@@ -1,3 +1,3 @@
 # AdventOfCode-2021
 
-These are my solutions to each problem.
+These are my solutions for each problem.
