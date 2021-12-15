@@ -53,7 +53,7 @@ int main() {
 
 		f >> s;
 
-		m = 0;
+		m =0;
 		for (int i = 0; i < strlen(s); i++) {
 			m++;
 			A[n][m] = s[i] - '0';
